@@ -40,6 +40,7 @@ Bem-vindo(a) ao meu perfil do github
 ## Contatos
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:igorpcampos2004@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)]([https://www.linkedin.com/in/seu_perfil](https://www.linkedin.com/in/igor-p-campos/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/igor-p-campos/)
+
 
 
